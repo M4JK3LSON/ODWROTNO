@@ -1,0 +1,6 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\ODWROTNO - Odwrotność liczby\bin\Debug\ODWROTNO - Odwrotność liczby.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\ODWROTNO - Odwrotność liczby\bin\Debug\ODWROTNO - Odwrotność liczby.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\ODWROTNO - Odwrotność liczby\bin\Debug\ODWROTNO - Odwrotność liczby.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\ODWROTNO - Odwrotność liczby\obj\Debug\ODWROTNO - Odwrotność liczby.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\ODWROTNO - Odwrotność liczby\obj\Debug\ODWROTNO - Odwrotność liczby.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\ODWROTNO - Odwrotność liczby\obj\Debug\ODWROTNO - Odwrotność liczby.csprojAssemblyReference.cache
